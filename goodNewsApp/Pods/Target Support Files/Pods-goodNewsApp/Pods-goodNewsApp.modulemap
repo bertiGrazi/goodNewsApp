@@ -1,0 +1,6 @@
+framework module Pods_goodNewsApp {
+  umbrella header "Pods-goodNewsApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
